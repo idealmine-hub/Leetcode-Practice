@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/idealmine-hub/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/idealmine-hub/Leetcode-Practice/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
